@@ -1,6 +1,6 @@
-# Refresher
-Let's refresh
-Click on this link and refresh yourself : https://mohammedhamzamalik.github.io/Refresher/
+# Relaxer
+Let's relax
+Click on this link and relax yourself : https://mohammedhamzamalik.github.io/Refresher/
 
 Thanks for breathing! 😉
 
